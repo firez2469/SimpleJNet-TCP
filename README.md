@@ -1,6 +1,7 @@
 # SimpleJNet-TCP
 A TCP networking library for Java.
 This library simplifies the creation of a TCP Listener/Server and Client.
+Go to [releases](https://github.com/firez2469/SimpleJNet-TCP/releases/) to download the latest version!
 
 SimpleJNet-TCP allows for the creation of a TCP Server which can:
 - Wait for Clients to connect
