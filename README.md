@@ -66,7 +66,7 @@ send() method. The method takes in one variable which is the message.
 
 <pre>
 <code>while(c.hasMessage()){
-  String message = c.getNetMessage();
+  String message = c.getNextMessage();
 }</code>
 </pre>
 
